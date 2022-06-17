@@ -12,12 +12,12 @@ a python module that can generate a visualization of the most starred projects o
 <img src="https://user-images.githubusercontent.com/105970352/174204859-50ba710b-802b-4801-8966-876e7e5b0a7a.png">
   
   <h2> Features</h2><br>
-  <h3>Visualizations are interactive , you can click on any project name and it will open a new page with the repositry of this project<h3>
+  <h3>Visualizations are interactive , you can click on any project name and it will open a new page with the repositry of this project.<h3>
     
   <h1>What you will learn:</h1>
    <ul>
-     <li> How to work with apis like github api.</li>
-     <li>How to use python data visualization library and create interactive visualizations and display them on the browser.</li>
+     <li> How to work with apis like github api</li>
+     <li>How to use python data visualization library and create interactive visualizations and display them on the browser</li>
     </ul>
     
   
