@@ -1,4 +1,4 @@
-# github-starts-visualizer
+# github-stars-visualizer
 a python module that can generate a visualization of the most starred projects on github
 
 <h1>How to use<h1>:
