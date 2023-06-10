@@ -17,7 +17,7 @@ a python module that can generate a visualization of the most starred projects o
   <h1>What you will learn:</h1>
    <ul>
      <li> How to work with apis like github api.</li>
-     <li>How to use python data visualization libraries and create interactive visualizations and display them on the browser.</li>
+     <li>How to use python data visualization libraries and create interactive visualizations.</li>
     </ul>
     
   
