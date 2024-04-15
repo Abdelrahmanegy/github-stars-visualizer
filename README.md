@@ -1,5 +1,5 @@
 # github-stars-visualizer
-a python module that can generate a visualization of the most starred projects on github
+A python module that generates a visualization of the most starred projects on github
 
 <h1>How to use<h1>:
   <h2>import the module</h2> from rank_pro import draw_graphs <br>
